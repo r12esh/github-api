@@ -1,6 +1,6 @@
 # Firebase Authentication
  
- This is an authentication app made using google's firebase authentication service. <br/>
+ This is an authentication app made by using google's firebase authentication service. <br/>
  In this app you can access the github profile information of users by their Username. <br/>
  To not expose the firebase apikey, the app is hosted on netlify.
  

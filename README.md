@@ -6,8 +6,9 @@
  
  ## Open in your browser:
  ### https://firebaseauthentication.netlify.app
+ After visiting the site follow the steps below.
 
-## Access the github API by usernames after following the steps below:
+## Access the github API by usernames after following the steps below :
   1. Click on Sign up to create an account. You can use fake values of email to try app
   2. Sign In
   3. Enter the username of the user

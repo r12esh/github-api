@@ -4,7 +4,7 @@
  In this app you can access the github profile information of users by their Username. <br/>
  To not expose the firebase API key, the app is hosted on netlify.
  
- ## Open in your browser:
+ ## Try in your browser:
  ### https://firebaseauthentication.netlify.app
  After visiting the site follow the steps below.
 

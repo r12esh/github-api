@@ -5,7 +5,7 @@
  To not expose the firebase API key, the app is hosted on netlify.
  
  ## Try in your browser:
- ### https://firebaseauthentication.netlify.app
+ ### https://firebase-github-api.netlify.app/signin
  After visiting the site follow the steps below.
 
 ## Access the github API by usernames after following the steps below :
